@@ -43,10 +43,11 @@ o	Reattach original audio using FFmpeg
 o	View and download final output from runs/detect/track/
 ________________________________________
 📁 Project Structure
-📂 models/              # YOLOv8 weights
-📂 videos/              # Input video from Google Drive
-📂 runs/detect/track/   # Final tracked output video
-📜 player_reid_clean_colab_final.ipynb
+📂 models/                               # YOLOv8 weights
+📂 videos/                               # Input video from Google Drive
+📂 runs/detect/track/                    # Final tracked output video
+📂/content/final_tracked_output.mp4      # Final video with player tracking 
+📜 player_reid_clean_colab_final.ipynb   # Jupyter notebook 
 ________________________________________
 💻 Dependencies
 pip install ultralytics opencv-python ffmpeg-python gdown
