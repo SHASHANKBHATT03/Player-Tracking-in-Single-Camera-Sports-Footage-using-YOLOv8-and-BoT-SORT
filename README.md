@@ -32,10 +32,12 @@ This project implements a real-time **player tracking system** for single-camera
 
 2. **Download files from Google Drive**:
 
-``bash
+```bash
 pip install gdown
 gdown --id 1TDcND31fvEDvcnZCaianTxJrmT8q7iIi -O videos/input_video.mp4
-gdown --id 1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD -O models/best.pt ` ``bash
+gdown --id 1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD -O models/best.pt
+```
+
 
 
 
