@@ -65,5 +65,5 @@ Shashank Bhatt
 B.Tech CSE (2021-2025) | Graphic Era Hill University
 ## 🔗 Connect with Me
 
-- GitHub: [SHASHANKBHATT03](https://github.com/SHASHANKBHATT03)
-- LinkedIn: [Shashank Bhatt](www.linkedin.com/in/shashank-bhatt-047485241)
+- GitHub: [SHASHANKBHATT03] (https://github.com/SHASHANKBHATT03)
+- LinkedIn: [Shashank Bhatt] (www.linkedin.com/in/shashank-bhatt-047485241)
